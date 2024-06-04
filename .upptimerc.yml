@@ -27,6 +27,7 @@ sites:
     url: https://library-archives.canada.ca
   - name: Military Police Complaints Commission of Canada / Sélection de la langue - Commission dâexamen des plaintes concernant la police militaire du Canada
     url: https://mpcc-cppm.gc.ca
+    __dangerous__disable_verify_peer: true
   - name: National Arts Centre | Canada is our stage
     url: https://nac-cna.ca
   - name: Canadian Museum of Nature
