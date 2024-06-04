@@ -455,19 +455,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "service-canada-canada-ca",
     "status": "up",
-    "uptime": "19.33%",
-    "uptimeDay": "19.33%",
-    "uptimeWeek": "19.33%",
-    "uptimeMonth": "19.33%",
-    "uptimeYear": "19.33%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3091,
     "timeDay": 3091,
     "timeWeek": 3091,
     "timeMonth": 3091,
     "timeYear": 3091,
-    "dailyMinutesDown": {
-      "2024-06-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada",
