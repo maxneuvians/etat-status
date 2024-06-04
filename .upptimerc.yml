@@ -54,7 +54,7 @@ sites:
   - name: Canada.ca
     url: https://science.gc.ca
   - name: Service Canada - Canada.ca
-    url: https://servicecanada.gc.ca
+    url: https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html
   - name: Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
     url: https://tbs-sct.gc.ca
   - name: Travel.gc.ca - Home
