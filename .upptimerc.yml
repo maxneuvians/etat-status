@@ -3,8 +3,193 @@ owner: maxneuvians # Your GitHub organization or username, where this repository
 repo: etat-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - title: Canada.ca
+    url: https://www.canada.ca
+  - title: Page d'accueil de Condition féminine Canada | Status of Women Canada Web Welcome Page
+    url: https://cfc-swc.gc.ca
+  - title: Canadian Institutes of Health Research / Instituts de recherche en santé du Canada
+    url: https://cihr-irsc.gc.ca
+  - title: Canada Revenue Agency/Agence du revenu du Canada - Canada.ca
+    url: https://cra-arc.gc.ca
+  - title: Conseil de la radiodiffusion et des télécommunications canadiennes / Canadian Radio-television and Telecommunications Commission | CRTC
+    url: https://crtc.gc.ca
+  - title: Canadian Centre for Cyber Security
+    url: https://cyber.gc.ca
+  - title: Home | Canadian Armed Forces
+    url: https://forces.ca
+  - title: Canadian Museum for Human Rights
+    url: https://humanrights.ca
+  - title: Home | Ingenium
+    url: https://ingeniumcanada.org
+  - title: Immigration and Refugee Board of Canada | Commission de l’immigration et du statut de réfugié du Canada 
+    url: https://irb-cisr.gc.ca
+  - title: Pages - Home
+    url: https://library-archives.canada.ca
+  - title: Military Police Complaints Commission of Canada / Sélection de la langue - Commission dâexamen des plaintes concernant la police militaire du Canada
+    url: https://mpcc-cppm.gc.ca
+  - title: National Arts Centre | Canada is our stage
+    url: https://nac-cna.ca
+  - title: Canadian Museum of Nature
+    url: https://nature.ca
+  - title: National Capital Commission -  National Capital Commission
+    url: https://ncc-ccn.gc.ca
+  - title: Northern Pipeline Agency / Sélection de la langue - Administration du pipe-line du Nord
+    url: https://northern-pipeline.canada.ca
+  - title: Home - National Research Council Canada
+    url: https://nrc.canada.ca
+  - title: Home - National Research Council Canada
+    url: https://nrc-cnrc.gc.ca
+  - title: National Security and Intelligence Review Agency -
+    url: https://nsira-ossnr.gc.ca
+  - title: Canadian Transportation Agency
+    url: https://otc-cta.gc.ca
+  - title: Privy Council Office - Canada.ca
+    url: https://pco.gc.ca
+  - title: Prime Minister of Canada / Premier ministre du Canada
+    url: https://pm.gc.ca
+  - title: None
+    url: https://pmprb-cepmb.gc.ca
+  - title: Publications du gouvernement du Canada | Government of Canada Publications
+    url: https://publications.gc.ca
+  - title: Canada.ca
+    url: https://science.gc.ca
+  - title: Service Canada - Canada.ca
+    url: https://servicecanada.gc.ca
+  - title: Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada
+    url: https://tbs-sct.gc.ca
+  - title: Travel.gc.ca - Home
+    url: https://travel.gc.ca
+  - title: Weather Information - Environment Canada
+    url: https://weather.gc.ca
+  - title: Agence de promotion économique du Canada atlantique| Atlantic Canada Opportunities Agency
+    url: https://www.acoa-apeca.gc.ca
+  - title: Atomic Energy of Canada Ltd (AECL) - Home
+    url: https://www.aecl.ca
+  - title: Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
+    url: https://www.agr.gc.ca
+  - title: Agence spatiale canadienne | Canadian Space Agency
+    url: https://www.asc-csa.gc.ca
+  - title: Bank of Canada
+    url: https://www.bankofcanada.ca
+  - title: BDC - The Bank for Canadian Entrepreneurs | BDC.ca
+    url: https://www.bdc.ca
+  - title: Mailing and shipping for Personal and Business | Canada Post
+    url: https://www.canadapost-postescanada.ca
+  - title: Canadian Northern Economic Development Agency / Agence canadienne de développement économique du Nord - Canada.ca
+    url: https://www.cannor.gc.ca
+  - title: Welcome to Courts Administration Service | Bienvenue au Service administratif des tribunaux judiciaires
+    url: https://www.cas-satj.gc.ca
+  - title: Canadian Air Transport Security Authority / L'administration canadienne de la sÃ»reté du transport aérien
+    url: https://www.catsa-acsta.gc.ca
+  - title: Splash | Copyright Board of Canada
+    url: https://www.cb-cda.gc.ca
+  - title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+    url: https://www.cbc.ca
+  - title: Canada Border Services Agency | Agence des services frontaliers du Canada
+    url: https://www.cbsa-asfc.gc.ca
+  - title: Bienvenue sur les plaines d'Abraham / Welcome to the Plains of Abraham
+    url: https://www.ccbn-nbc.gc.ca
+  - title: Canadian Commercial Corporation | CCC
+    url: https://www.ccc.ca
+  - title: Canadian Centre for Occupational Health and Safety
+    url: https://www.ccohs.ca
+  - title: Home - CDIC
+    url: https://www.cdic.ca
+  - title: Canada Energy Regulator Site | Site de Régie de lâénergie du Canada
+    url: https://www.cer-rec.gc.ca
+  - title: Home | Canadian Human Rights Commission
+    url: https://www.chrc-ccdp.gc.ca
+  - title: Canada Mortgage and Housing Corporation | CMHC
+    url: https://www.cmhc-schl.gc.ca
+    __dangerous__disable_verify_peer: true
+  - title: Canadian Nuclear Safety Commission - Commission canadienne de sÃ»reté nucléaire
+    url: https://www.cnsc-ccsn.gc.ca
+  - title: Welcome | Civilian Review and Complaints Commission for the RCMP
+    url: https://www.crcc-ccetp.gc.ca
+  - title: Correctional Service Canada / Service correctionnel Canada
+    url: https://www.csc-scc.gc.ca
+  - title: Communications Security Establishment Canada
+    url: https://www.cse-cst.gc.ca
+  - title: Canada School of Public Service / École de la fonction publique du Canada
+    url: https://www.csps-efpc.gc.ca
+  - title: DEC | Développement économique Canada pour les régions du Québec | Accueil
+    url: https://www.dec-ced.gc.ca
+  - title: Fisheries and Oceans Canada | PÃªches et Océans Canada
+    url: https://www.dfo-mpo.gc.ca
+  - title: Export Development Canada (EDC)
+    url: https://www.edc.ca
+  - title: Farm Credit Canada | FCC
+    url: https://www.fcc-fac.ca
+  - title: Federal Economic Development Agency for Southern Ontario Main Site / Sélection de la langue - Site principal Agence fédérale de développement économique pour le Sud de l'Ontario
+    url: https://www.feddevontario.gc.ca
+  - title: Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) / Sélection de la langue - Centre d'analyse des opérations et déclarations financières du Canada (CANAFE)
+    url: https://www.fintrac-canafe.gc.ca
+  - title: Office of the Commissioner for Federal Judicial Affairs Canada
+    url: https://www.fja-cmf.gc.ca
+  - title: National Gallery of Canada
+    url: https://www.gallery.ca
+  - title: Governor General of Canada | Gouverneure générale du Canada
+    url: https://www.gg.ca
+  - title: Canadian Grain Commission (CGC) | Commission canadienne des grains (CCG)
+    url: https://www.grainscanada.gc.ca
+  - title: Home | Canadian Museum of History
+    url: https://www.historymuseum.ca
+  - title: Innovation, Science and Economic Development Canada Main Site / Sélection de la langue - Site principal d'Innovation, Sciences et Développement économique Canada
+    url: https://www.ic.gc.ca
+  - title: IDRC - International Development Research Centre
+    url: https://www.idrc.ca
+  - title: Infrastructure Canada / Infrastructure Canada
+    url: https://www.infrastructure.gc.ca
+  - title: Canadian Food Inspection Agency / Sélection de la langue - Agence canadienne d'inspection des aliments
+    url: https://www.inspection.gc.ca
+  - title: Global Affairs Canada – Splash page / Affaires mondiales Canada – Page de garde
+    url: https://www.international.gc.ca
+  - title: Department of Justice / Sélection de la langue - Ministère de la Justice
+    url: https://www.justice.gc.ca
+  - title: Canadian Coins, Gold, Silver & More  | The Royal Canadian Mint
+    url: https://www.mint.ca
+  - title: National Film Board of Canada
+    url: https://www.nfb.ca
+  - title: Natural Resources Canada / Sélection de la langue - Ressources naturelles Canada
+    url: https://www.nrcan.gc.ca
+  - title: Natural Sciences and Engineering Research Council of Canada  | Conseil de recherches en sciences naturelles et en génie du Canada
+    url: https://www.nserc-crsng.gc.ca
+  - title: National Security and Intelligence Committee of Parliamentarians (NSICOP)
+    url: https://www.nsicop-cpsnr.ca
+  - title: Landing Language Selector | OCI | BEC
+    url: https://www.oci-bec.gc.ca
+  - title: Office of the Superintendent of Financial Institutions
+    url: https://www.osfi-bsif.gc.ca
+  - title: Parks Canada
+    url: https://www.pc.gc.ca
+  - title: Public Prosecution Service of Canada / Sélection de la langue - Service des poursuites pénales du Canada
+    url: https://www.ppsc-sppc.gc.ca
+  - title: Public Safety Canada / Sécurité publique Canada
+    url: https://www.publicsafety.gc.ca
+  - title: Relations Couronne-Autochtones et Affaires du Nord Canada / Crown-Indigenous Relations and Northern Affairs Canada - Canada.ca
+    url: https://www.rcaanc-cirnac.gc.ca
+  - title: National Home Page | Royal Canadian Mounted Police
+    url: https://www.rcmp-grc.gc.ca
+  - title: Services aux Autochtones Canada / Indigenous Services Canada - Canada.ca
+    url: https://www.sac-isc.gc.ca
+  - title: Supreme Court of Canada | Cour suprême du Canada
+    url: https://www.scc-csc.ca
+  - title: Canadian Intergovernmental Conference Secretariat / Secr�tariat des conf�rences intergouvernementales canadiennes
+    url: https://www.scics.ca
+  - title: Social Sciences and Humanities Research Council / Conseil de recherches en sciences humaines
+    url: https://www.sshrc-crsh.gc.ca
+  - title: Statistics Canada - Canada's national statistical agency / Statistique Canada - Organisme statistique national du Canada
+    url: https://www.statcan.gc.ca
+  - title: Transport Canada / Transports Canada
+    url: https://www.tc.gc.ca
+  - title: Language selection
+    url: https://www.veterans.gc.ca
+  - title: Veterans Review and Appeal Board
+    url: https://www.vrab-tacra.gc.ca
+  - title: Welcome to the Canadian Transportation Accident Investigation and Safety Board | Bienvenue au Bureau de la sécurité des transports du Canada
+    url: https://www.tsb.gc.ca
+  - title: Western Economic Diversification Canada | Diversification de l'économie de l'Ouest Canada
+    url: https://www.wd-deo.gc.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
