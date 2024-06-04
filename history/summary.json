@@ -455,18 +455,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicecanada.gc.ca.ico",
     "slug": "service-canada-canada-ca",
     "status": "down",
-    "uptime": "41.80%",
-    "uptimeDay": "41.80%",
-    "uptimeWeek": "41.80%",
-    "uptimeMonth": "41.80%",
-    "uptimeYear": "41.80%",
+    "uptime": "33.43%",
+    "uptimeDay": "33.43%",
+    "uptimeWeek": "33.43%",
+    "uptimeMonth": "33.43%",
+    "uptimeYear": "33.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-04": 1
+      "2024-06-04": 2
     }
   },
   {
