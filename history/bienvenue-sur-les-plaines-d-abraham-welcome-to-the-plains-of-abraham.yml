@@ -1,7 +1,7 @@
 url: https://www.ccbn-nbc.gc.ca
-status: up
-code: 200
-responseTime: 215
-lastUpdated: 2024-06-05T23:02:00.389Z
+status: down
+code: 503
+responseTime: 306
+lastUpdated: 2024-06-06T10:55:58.948Z
 startTime: 2024-06-04T20:32:03.606Z
 generator: Upptime <https://github.com/upptime/upptime>
