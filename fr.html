@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Status</title>
+    <title>Etat</title>
 
     <!-- Icons Font Awesome (to access icons, import Font Awesome) -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous">
@@ -17,21 +17,22 @@
 </head>
 <body>
     <gcds-header
-        lang-href="/fr"
+        lang="fr"
+        lang-href="/"
         skip-to-href="#"
     >
     </gcds-header>
     <div class="content-wrapper">
         <main id="mc" class="container-xl mx-auto xl:px-0 sm:px-500 px-300 general-layout">
-            <h1 class="mb-200 mt-400">Status</h1>
-            Status page for the Government of Canada
+            <h1 class="mb-200 mt-400">Etat</h1>
+            Page de statut pour le Gouvernement du Canada
             <div id="overall-status" class="mt-400">
             </div>
-            <h4 class="mb-200 mt-400">Live Status</h4>
+            <h4 class="mb-200 mt-400">Statut en direct</h4>
             <div class="mb-400 status-body">
                 <ul id="list"></ul>
             </div>
-            Past Downtimes
+            Temps d'arrêt passés
             <div class="status-body">
                 <ul id="incident-list"></ul>
             </div>
@@ -44,7 +45,7 @@
     </gcds-footer>
     <script src="scripts.js" type="text/javascript"></script>
     <script type="text/javascript">
-        loadData("en");
+        loadData("fr");
     </script>
 </body>
 </html>
