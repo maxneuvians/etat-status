@@ -1,5 +1,8 @@
 name: New Static Site CI
 on:
+  push:
+    paths:
+      - "static/**"
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
