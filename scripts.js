@@ -55,6 +55,10 @@ function createCardComponent(item, lang) {
     card.setAttribute('size', 'md');
     card.setAttribute('border', 'true');
     card.setAttribute('onclick', 'fold(this)');
+    card.setAttribute('onFocus', 'fold(this)');
+    card.setAttribute('onBlur', 'fold(this)');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('aria-label', 'Click to see more details')
     card.classList.add('m-100');
     if (item.status === 'down') {
         card.classList.add('status-down');
@@ -62,10 +66,11 @@ function createCardComponent(item, lang) {
         card.classList.add('status-up');
     }
 
+    let domain = item.url.replace('https://', '').replace('http://', '').replace(/\/$/, "");
     let content = `
         <span class="title">
-            <img src="${item.icon}" alt="icon"/>
-            ${item.url.replace('https://', '').replace('http://', '').replace(/\/$/, "")}
+            <img src="${item.icon}" alt="favicon for ${domain}"/>
+            ${domain}
         </span>
         <span class="uptime">
             ${item.uptime} | ${item.time} ms
@@ -118,6 +123,7 @@ function createIncidentCardComponent(date, items, lang) {
     card.setAttribute('padding', '200');
     card.setAttribute('size', 'full');
     card.setAttribute('border', 'true');
+    card.setAttribute('tabindex', '0');
     card.classList.add('mt-200');
     card.classList.add('status-down');
 
@@ -137,7 +143,7 @@ function createIncidentCardComponent(date, items, lang) {
                     ${items.map(item => `
                         <tr>
                             <td class="title">
-                                <img src="${item.icon}" alt="icon"/>
+                                <img src="${item.icon}" alt="icon for ${item.url.replace('https://', '').replace('http://', '').replace(/\/$/, "")}"/>
                                 ${item.url.replace('https://', '').replace('http://', '').replace(/\/$/, "")}
                             </td>
                             <td>${item.dailyMinutesDown[date]} minutes</td>
@@ -161,6 +167,7 @@ function createOverAllStatus(items, lang) {
     statusBox.setAttribute('border', 'true');
     statusBox.setAttribute('padding', '200');
     statusBox.setAttribute('margin', '0');
+    statusBox.setAttribute('tabindex', '0');
 
     if (downItems.length > 0) {
         statusBox.classList.add('down-list');
