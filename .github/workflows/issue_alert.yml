@@ -1,0 +1,16 @@
+name: Send email when issue created
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  issue-opened:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sends email
+        uses: cds-snc/gc-notification-github-action@main
+        with:
+          api-key: ${{ secrets.NOTIFY_API_KEY }}
+          personalisation: ${{ env.BODY }}
+          recipient: max@neuvians.net
+          template-id: ${{ secrets.EMAIL_TEMPLATE_ID }}
