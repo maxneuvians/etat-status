@@ -10,7 +10,7 @@ jobs:
       - name: Sends email
         uses: cds-snc/gc-notification-github-action@main
         env: 
-          BODY: '{"subject": "${{ github.event.issue.title }}", "body": "${{ github.event.issue.body }}"}'
+          BODY: '{"subject": "${{ github.event.issue.title }}", "body": "[View details](${{ github.event.issue.html_url }})"}'
         with:
           api-key: ${{ secrets.NOTIFY_API_KEY }}
           personalisation: ${{ env.BODY }}
