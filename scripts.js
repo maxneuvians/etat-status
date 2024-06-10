@@ -55,8 +55,6 @@ function createCardComponent(item, lang) {
     card.setAttribute('size', 'md');
     card.setAttribute('border', 'true');
     card.setAttribute('onclick', 'fold(this)');
-    card.setAttribute('onFocus', 'fold(this)');
-    card.setAttribute('onBlur', 'fold(this)');
     card.setAttribute('tabindex', '0');
     card.setAttribute('aria-label', 'Click to see more details')
     card.classList.add('m-100');
