@@ -348,19 +348,19 @@
     "url": "https://otc-cta.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "canadian-transportation-agency",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "95.41%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "95.37%",
     "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 328,
-    "timeDay": 287,
-    "timeWeek": 362,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 314,
+    "timeDay": 233,
+    "timeWeek": 338,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-06-12": 66
+      "2024-06-12": 67
     }
   },
   {
