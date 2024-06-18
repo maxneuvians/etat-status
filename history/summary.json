@@ -132,19 +132,19 @@
     "url": "https://humanrights.ca",
     "icon": "https://icons.duckduckgo.com/ip3/humanrights.ca.ico",
     "slug": "canadian-museum-for-human-rights",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 320,
-    "timeWeek": 552,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 475,
+    "timeDay": 311,
+    "timeWeek": 524,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2024-06-18": 1
+      "2024-06-18": 7
     }
   },
   {
