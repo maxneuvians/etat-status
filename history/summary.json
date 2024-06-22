@@ -698,10 +698,10 @@
     "url": "https://www.cb-cda.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.cb-cda.gc.ca.ico",
     "slug": "splash-copyright-board-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
@@ -709,7 +709,9 @@
     "timeWeek": 537,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 1
+    }
   },
   {
     "name": "CBC.ca - watch, listen, and discover with Canada's Public Broadcaster",
@@ -979,7 +981,7 @@
     "uptimeYear": "100.00%",
     "time": 1381,
     "timeDay": 1461,
-    "timeWeek": 1182,
+    "timeWeek": 1212,
     "timeMonth": 1381,
     "timeYear": 1381,
     "dailyMinutesDown": {}
