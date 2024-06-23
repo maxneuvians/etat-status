@@ -356,11 +356,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "canadian-transportation-agency",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 370,
     "timeDay": 555,
     "timeWeek": 462,
@@ -847,9 +847,9 @@
     "url": "https://www.chrc-ccdp.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.chrc-ccdp.gc.ca.ico",
     "slug": "home-canadian-human-rights-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "97.75%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
@@ -859,7 +859,7 @@
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2024-06-23": 32
+      "2024-06-23": 33
     }
   },
   {
