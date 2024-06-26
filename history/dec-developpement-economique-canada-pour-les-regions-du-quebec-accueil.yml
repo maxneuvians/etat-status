@@ -1,7 +1,7 @@
 url: https://www.dec-ced.gc.ca
-status: up
-code: 200
-responseTime: 1272
-lastUpdated: 2024-06-25T23:02:01.055Z
+status: down
+code: 500
+responseTime: 306
+lastUpdated: 2024-06-26T16:17:10.507Z
 startTime: 2024-06-04T20:32:12.048Z
 generator: Upptime <https://github.com/upptime/upptime>
