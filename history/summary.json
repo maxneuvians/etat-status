@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingeniumcanada.org.ico",
     "slug": "home-ingenium",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "76.80%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.12%",
+    "uptimeDay": "77.33%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 1517,
     "timeDay": 3790,
     "timeWeek": 2227,
     "timeMonth": 1517,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2024-06-30": 334
+      "2024-06-30": 326
     }
   },
   {
@@ -225,19 +225,19 @@
     "url": "https://nac-cna.ca",
     "icon": "https://icons.duckduckgo.com/ip3/nac-cna.ca.ico",
     "slug": "national-arts-centre-canada-is-our-stage",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "77.25%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 5721,
-    "timeDay": 9507,
-    "timeWeek": 6740,
-    "timeMonth": 5721,
-    "timeYear": 5721,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 5720,
+    "timeDay": 8553,
+    "timeWeek": 6635,
+    "timeMonth": 5720,
+    "timeYear": 5720,
     "dailyMinutesDown": {
-      "2024-06-30": 328,
+      "2024-06-30": 336,
       "2024-06-18": 24
     }
   },
@@ -1533,18 +1533,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "73.52%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.94%",
+    "uptimeDay": "72.78%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 719,
     "timeDay": 3155,
     "timeWeek": 1263,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2024-06-30": 381
+      "2024-06-30": 392
     }
   },
   {
