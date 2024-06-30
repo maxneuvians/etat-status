@@ -151,10 +151,10 @@
     "url": "https://ingeniumcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/ingeniumcanada.org.ico",
     "slug": "home-ingenium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "77.33%",
-    "uptimeWeek": "96.76%",
+    "uptimeDay": "77.19%",
+    "uptimeWeek": "96.74%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.12%",
     "time": 1517,
@@ -163,7 +163,7 @@
     "timeMonth": 1517,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2024-06-30": 326
+      "2024-06-30": 328
     }
   },
   {
@@ -225,10 +225,10 @@
     "url": "https://nac-cna.ca",
     "icon": "https://icons.duckduckgo.com/ip3/nac-cna.ca.ico",
     "slug": "national-arts-centre-canada-is-our-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "96.77%",
+    "uptimeDay": "77.28%",
+    "uptimeWeek": "96.75%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.06%",
     "time": 5720,
@@ -237,7 +237,7 @@
     "timeMonth": 5720,
     "timeYear": 5720,
     "dailyMinutesDown": {
-      "2024-06-30": 326,
+      "2024-06-30": 327,
       "2024-06-18": 24
     }
   },
@@ -273,8 +273,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 289,
-    "timeWeek": 336,
+    "timeDay": 288,
+    "timeWeek": 338,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {}
@@ -1532,9 +1532,9 @@
     "url": "https://www.scc-csc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "68.50%",
+    "uptimeDay": "68.47%",
     "uptimeWeek": "95.50%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.78%",
