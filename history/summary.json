@@ -225,10 +225,10 @@
     "url": "https://nac-cna.ca",
     "icon": "https://icons.duckduckgo.com/ip3/nac-cna.ca.ico",
     "slug": "national-arts-centre-canada-is-our-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "96.77%",
+    "uptimeDay": "77.21%",
+    "uptimeWeek": "96.74%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.05%",
     "time": 5512,
@@ -237,7 +237,7 @@
     "timeMonth": 5512,
     "timeYear": 5512,
     "dailyMinutesDown": {
-      "2024-06-30": 326,
+      "2024-06-30": 328,
       "2024-06-18": 24
     }
   },
@@ -1532,19 +1532,19 @@
     "url": "https://www.scc-csc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "75.25%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 719,
     "timeDay": 3155,
     "timeWeek": 1263,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2024-06-30": 356
+      "2024-06-30": 357
     }
   },
   {
