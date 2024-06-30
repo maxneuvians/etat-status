@@ -1532,19 +1532,19 @@
     "url": "https://www.scc-csc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "69.58%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 1109,
     "timeDay": 3715,
     "timeWeek": 2146,
     "timeMonth": 1109,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-06-30": 449
+      "2024-06-30": 438
     }
   },
   {
