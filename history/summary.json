@@ -151,18 +151,20 @@
     "url": "https://ingeniumcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/ingeniumcanada.org.ico",
     "slug": "home-ingenium",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1194,
     "timeDay": 1247,
     "timeWeek": 1194,
     "timeMonth": 1194,
     "timeYear": 1194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-30": 2
+    }
   },
   {
     "name": "Immigration and Refugee Board of Canada | Commission de l'immigration et du statut de réfugié du Canada",
@@ -223,10 +225,10 @@
     "url": "https://nac-cna.ca",
     "icon": "https://icons.duckduckgo.com/ip3/nac-cna.ca.ico",
     "slug": "national-arts-centre-canada-is-our-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 5404,
@@ -235,6 +237,7 @@
     "timeMonth": 5404,
     "timeYear": 5404,
     "dailyMinutesDown": {
+      "2024-06-30": 2,
       "2024-06-18": 24
     }
   },
@@ -1528,9 +1531,9 @@
     "url": "https://www.scc-csc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1539,7 +1542,9 @@
     "timeWeek": 333,
     "timeMonth": 453,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-30": 0
+    }
   },
   {
     "name": "Canadian Intergovernmental Conference Secretariat / Secr�tariat des conf�rences intergouvernementales canadiennes",
