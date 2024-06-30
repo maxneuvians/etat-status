@@ -151,19 +151,19 @@
     "url": "https://ingeniumcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/ingeniumcanada.org.ico",
     "slug": "home-ingenium",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "77.21%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 1359,
-    "timeDay": 3683,
-    "timeWeek": 1809,
-    "timeMonth": 1359,
-    "timeYear": 1359,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "76.57%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 1539,
+    "timeDay": 4776,
+    "timeWeek": 2382,
+    "timeMonth": 1539,
+    "timeYear": 1539,
     "dailyMinutesDown": {
-      "2024-06-30": 328
+      "2024-06-30": 337
     }
   },
   {
@@ -273,7 +273,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 285,
+    "timeDay": 274,
     "timeWeek": 336,
     "timeMonth": 358,
     "timeYear": 358,
@@ -1533,18 +1533,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.06%",
+    "uptimeDay": "75.84%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 453,
     "timeDay": 383,
     "timeWeek": 333,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2024-06-30": 337
+      "2024-06-30": 348
     }
   },
   {
