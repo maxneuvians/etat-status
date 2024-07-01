@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "canada-ca",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1290,
     "timeDay": 1466,
     "timeWeek": 1499,
     "timeMonth": 1290,
     "timeYear": 1290,
-    "dailyMinutesDown": {
-      "2024-07-01": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Page d'accueil de Condition féminine Canada | Status of Women Canada Web Welcome Page",
@@ -153,18 +151,19 @@
     "url": "https://ingeniumcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/ingeniumcanada.org.ico",
     "slug": "home-ingenium",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "73.31%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "73.19%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1499,
     "timeDay": 3267,
     "timeWeek": 2119,
     "timeMonth": 1499,
     "timeYear": 1499,
     "dailyMinutesDown": {
+      "2024-07-01": 2,
       "2024-06-30": 384
     }
   },
@@ -227,18 +226,19 @@
     "url": "https://nac-cna.ca",
     "icon": "https://icons.duckduckgo.com/ip3/nac-cna.ca.ico",
     "slug": "national-arts-centre-canada-is-our-stage",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "73.39%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "73.32%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 5678,
     "timeDay": 7593,
     "timeWeek": 6468,
     "timeMonth": 5678,
     "timeYear": 5678,
     "dailyMinutesDown": {
+      "2024-07-01": 1,
       "2024-06-30": 383,
       "2024-06-18": 24
     }
@@ -458,19 +458,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/science.gc.ca.ico",
     "slug": "canada-ca",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1290,
     "timeDay": 1466,
     "timeWeek": 1499,
     "timeMonth": 1290,
     "timeYear": 1290,
-    "dailyMinutesDown": {
-      "2024-07-01": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada",
