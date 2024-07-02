@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "canada-ca",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1285,
     "timeDay": 1210,
     "timeWeek": 1471,
     "timeMonth": 1285,
     "timeYear": 1285,
-    "dailyMinutesDown": {
-      "2024-07-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Page d'accueil de Condition féminine Canada | Status of Women Canada Web Welcome Page",
@@ -461,19 +459,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/science.gc.ca.ico",
     "slug": "canada-ca",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1285,
     "timeDay": 1210,
     "timeWeek": 1471,
     "timeMonth": 1285,
     "timeYear": 1285,
-    "dailyMinutesDown": {
-      "2024-07-02": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Treasury Board of Canada Secretariat / Sélection de la langue - Secrétariat du Conseil du Trésor du Canada",
@@ -624,19 +620,19 @@
     "url": "https://www.bdc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.bdc.ca.ico",
     "slug": "bdc-the-bank-for-canadian-entrepreneurs-bdc-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1086,
-    "timeDay": 1113,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1082,
+    "timeDay": 1036,
     "timeWeek": 959,
-    "timeMonth": 1086,
-    "timeYear": 1086,
+    "timeMonth": 1082,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2024-07-02": 1
+      "2024-07-02": 6
     }
   },
   {
