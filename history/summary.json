@@ -1110,19 +1110,19 @@
     "url": "https://www.gallery.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gallery.ca.ico",
     "slug": "national-gallery-of-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 201,
-    "timeWeek": 370,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 783,
+    "timeDay": 6688,
+    "timeWeek": 1971,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-07-02": 1
+      "2024-07-02": 7
     }
   },
   {
