@@ -16,12 +16,3 @@ jobs:
           personalisation: ${{ env.BODY }}
           recipient: max@neuvians.net
           template-id: ${{ secrets.EMAIL_TEMPLATE_ID }}
-      - name: Sends email to CSEMP
-        uses: cds-snc/gc-notification-github-action@main
-        env: 
-          BODY: '{"subject": "${{ github.event.issue.title }}", "body": "[View details](${{ github.event.issue.html_url }})"}'
-        with:
-          api-key: ${{ secrets.NOTIFY_API_KEY }}
-          personalisation: ${{ env.BODY }}
-          recipient: zzcsemp@tbs-sct.gc.ca
-          template-id: ${{ secrets.EMAIL_TEMPLATE_ID }}
