@@ -278,7 +278,7 @@
     "uptimeYear": "100.00%",
     "time": 351,
     "timeDay": 333,
-    "timeWeek": 313,
+    "timeWeek": 315,
     "timeMonth": 356,
     "timeYear": 351,
     "dailyMinutesDown": {}
@@ -1686,17 +1686,17 @@
     "url": "https://www.wd-deo.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.wd-deo.gc.ca.ico",
     "slug": "western-economic-diversification-canada-diversification-de-l-economie-de-l-ouest-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 319,
-    "timeWeek": 347,
-    "timeMonth": 402,
-    "timeYear": 393,
+    "time": 475,
+    "timeDay": 1877,
+    "timeWeek": 733,
+    "timeMonth": 497,
+    "timeYear": 475,
     "dailyMinutesDown": {}
   }
 ]
