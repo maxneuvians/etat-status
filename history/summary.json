@@ -281,7 +281,7 @@
     "time": 351,
     "timeDay": 389,
     "timeWeek": 321,
-    "timeMonth": 356,
+    "timeMonth": 357,
     "timeYear": 351,
     "dailyMinutesDown": {}
   },
@@ -627,19 +627,19 @@
     "url": "https://www.bdc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.bdc.ca.ico",
     "slug": "bdc-the-bank-for-canadian-entrepreneurs-bdc-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 792,
-    "timeWeek": 957,
-    "timeMonth": 1108,
-    "timeYear": 1057,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1063,
+    "timeDay": 918,
+    "timeWeek": 988,
+    "timeMonth": 1114,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-07-07": 1
+      "2024-07-07": 10
     }
   },
   {
