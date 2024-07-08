@@ -281,7 +281,7 @@
     "time": 348,
     "timeDay": 289,
     "timeWeek": 316,
-    "timeMonth": 356,
+    "timeMonth": 357,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -519,10 +519,10 @@
     "url": "https://weather.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/weather.gc.ca.ico",
     "slug": "weather-information-environment-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
@@ -530,7 +530,9 @@
     "timeWeek": 769,
     "timeMonth": 789,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-08": 1
+    }
   },
   {
     "name": "Agence de promotion économique du Canada atlantique| Atlantic Canada Opportunities Agency",
@@ -1211,11 +1213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.idrc.ca.ico",
     "slug": "idrc-international-development-research-centre",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 706,
     "timeDay": 387,
     "timeWeek": 657,
