@@ -629,7 +629,7 @@
     "slug": "bdc-the-bank-for-canadian-entrepreneurs-bdc-ca",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "85.14%",
+    "uptimeDay": "91.52%",
     "uptimeWeek": "97.88%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.56%",
@@ -1430,10 +1430,10 @@
     "url": "https://www.pc.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.pc.gc.ca.ico",
     "slug": "parks-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.81%",
     "time": 1480,
@@ -1442,6 +1442,7 @@
     "timeMonth": 1548,
     "timeYear": 1480,
     "dailyMinutesDown": {
+      "2024-07-08": 1,
       "2024-06-20": 77,
       "2024-06-06": 15
     }
