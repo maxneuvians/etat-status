@@ -1122,10 +1122,10 @@
     "url": "https://www.gallery.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gallery.ca.ico",
     "slug": "national-gallery-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
@@ -1133,7 +1133,9 @@
     "timeWeek": 375,
     "timeMonth": 813,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-09": 1
+    }
   },
   {
     "name": "Governor General of Canada | Gouverneure générale du Canada",
