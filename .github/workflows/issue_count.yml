@@ -1,6 +1,5 @@
 on:
-  issues:
-    types: [workflow_dispatch]
+  workflow_dispatch:
 
 jobs:
   comment:
