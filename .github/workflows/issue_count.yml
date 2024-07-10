@@ -13,4 +13,4 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
-            console.log(issues.length)
+            console.log(issues)
