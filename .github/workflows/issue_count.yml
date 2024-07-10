@@ -6,6 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v7
+        id: get-count
         with:
           github-token: ${{ secrets.GH_PAT }}
           script: |
@@ -14,4 +15,8 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
-            console.log(issues.data.length)
+            return issues.data.length
+      - name: Check result
+        if: steps.get-count.outputs.result > 10
+        run:  echo "${{steps.get-count.outputs.result}}"
+          
