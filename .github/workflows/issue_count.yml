@@ -10,7 +10,6 @@ jobs:
           github-token: ${{ secrets.GH_PAT || github.token }}
           script: |
             const issues = github.rest.issues.get({
-              state: "open",
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
