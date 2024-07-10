@@ -11,7 +11,7 @@ jobs:
           github-token: ${{ secrets.GH_PAT }}
           script: |
             const issues = await github.rest.issues.listForRepo({
-              state: "closed",
+              state: "open",
               owner: context.repo.owner,
               repo: context.repo.repo,
             })
