@@ -281,7 +281,7 @@
     "time": 342,
     "timeDay": 265,
     "timeWeek": 307,
-    "timeMonth": 350,
+    "timeMonth": 349,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -1159,7 +1159,7 @@
     "url": "https://www.grainscanada.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.grainscanada.gc.ca.ico",
     "slug": "canadian-grain-commission-cgc-commission-canadienne-des-grains-ccg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
