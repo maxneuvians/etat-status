@@ -281,7 +281,7 @@
     "time": 339,
     "timeDay": 250,
     "timeWeek": 292,
-    "timeMonth": 345,
+    "timeMonth": 344,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -1141,17 +1141,17 @@
     "url": "https://www.gg.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gg.ca.ico",
     "slug": "governor-general-of-canada-gouverneure-generale-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 127,
-    "timeWeek": 214,
-    "timeMonth": 202,
-    "timeYear": 196,
+    "time": 194,
+    "timeDay": 112,
+    "timeWeek": 202,
+    "timeMonth": 196,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -1398,18 +1398,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oci-bec.gc.ca.ico",
     "slug": "landing-language-selector-oci-bec",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.63%",
+    "uptimeDay": "85.92%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.63%",
     "time": 535,
     "timeDay": 439,
     "timeWeek": 501,
     "timeMonth": 534,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-07-13": 193
+      "2024-07-13": 203
     }
   },
   {
