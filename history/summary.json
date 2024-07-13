@@ -1398,18 +1398,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oci-bec.gc.ca.ico",
     "slug": "landing-language-selector-oci-bec",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "51.27%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.73%",
+    "uptimeDay": "50.80%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.73%",
     "time": 535,
     "timeDay": 439,
     "timeWeek": 501,
     "timeMonth": 534,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-07-13": 702
+      "2024-07-13": 709
     }
   },
   {
@@ -1605,17 +1605,17 @@
     "url": "https://www.statcan.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.statcan.gc.ca.ico",
     "slug": "statistics-canada-canada-s-national-statistical-agency-statistique-canada-organisme-statistique-national-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 2514,
-    "timeWeek": 913,
-    "timeMonth": 597,
-    "timeYear": 547,
+    "time": 542,
+    "timeDay": 1765,
+    "timeWeek": 841,
+    "timeMonth": 589,
+    "timeYear": 542,
     "dailyMinutesDown": {}
   },
   {
