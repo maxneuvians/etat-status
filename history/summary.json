@@ -279,7 +279,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
-    "timeDay": 240,
+    "timeDay": 236,
     "timeWeek": 288,
     "timeMonth": 345,
     "timeYear": 339,
@@ -374,7 +374,7 @@
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.29%",
     "time": 350,
     "timeDay": 179,
@@ -1397,9 +1397,9 @@
     "url": "https://www.oci-bec.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.oci-bec.gc.ca.ico",
     "slug": "landing-language-selector-oci-bec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1408,7 +1408,9 @@
     "timeWeek": 501,
     "timeMonth": 534,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-13": 0
+    }
   },
   {
     "name": "Office of the Superintendent of Financial Institutions",
