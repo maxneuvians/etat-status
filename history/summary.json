@@ -1125,10 +1125,10 @@
     "url": "https://www.gallery.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gallery.ca.ico",
     "slug": "national-gallery-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
@@ -1136,7 +1136,9 @@
     "timeWeek": 343,
     "timeMonth": 774,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-16": 1
+    }
   },
   {
     "name": "Governor General of Canada | Gouverneure générale du Canada",
@@ -1400,11 +1402,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oci-bec.gc.ca.ico",
     "slug": "landing-language-selector-oci-bec",
     "status": "up",
-    "uptime": "91.53%",
-    "uptimeDay": "27.79%",
+    "uptime": "91.54%",
+    "uptimeDay": "29.42%",
     "uptimeWeek": "49.14%",
     "uptimeMonth": "88.30%",
-    "uptimeYear": "91.53%",
+    "uptimeYear": "91.54%",
     "time": 544,
     "timeDay": 883,
     "timeWeek": 550,
