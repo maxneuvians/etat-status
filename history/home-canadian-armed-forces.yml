@@ -1,7 +1,7 @@
 url: https://forces.ca
-status: up
-code: 200
-responseTime: 464
-lastUpdated: 2024-07-16T23:01:13.061Z
+status: down
+code: 503
+responseTime: 376
+lastUpdated: 2024-07-17T12:44:00.829Z
 startTime: 2024-06-04T20:30:39.033Z
 generator: Upptime <https://github.com/upptime/upptime>
