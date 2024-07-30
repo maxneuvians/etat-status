@@ -1,7 +1,7 @@
 url: https://www.cnsc-ccsn.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-30T11:50:05.860Z
+status: up
+code: 200
+responseTime: 59
+lastUpdated: 2024-07-30T11:57:53.330Z
 startTime: 2024-06-04T20:32:08.996Z
 generator: Upptime <https://github.com/upptime/upptime>
