@@ -1717,17 +1717,17 @@
     "url": "https://www.wd-deo.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.wd-deo.gc.ca.ico",
     "slug": "western-economic-diversification-canada-diversification-de-l-economie-de-l-ouest-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 377,
-    "timeWeek": 440,
-    "timeMonth": 507,
-    "timeYear": 450,
+    "time": 480,
+    "timeDay": 1066,
+    "timeWeek": 663,
+    "timeMonth": 564,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   }
 ]
