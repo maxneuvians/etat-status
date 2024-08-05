@@ -283,8 +283,8 @@
     "uptimeYear": "100.00%",
     "time": 328,
     "timeDay": 298,
-    "timeWeek": 335,
-    "timeMonth": 305,
+    "timeWeek": 337,
+    "timeMonth": 306,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -729,10 +729,10 @@
     "url": "https://www.cb-cda.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.cb-cda.gc.ca.ico",
     "slug": "splash-copyright-board-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 541,
@@ -741,6 +741,7 @@
     "timeMonth": 520,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-07-17": 23
     }
   },
@@ -1569,7 +1570,7 @@
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "87.19%",
+    "uptimeDay": "88.87%",
     "uptimeWeek": "93.45%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.70%",
