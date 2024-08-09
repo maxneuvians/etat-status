@@ -287,7 +287,7 @@
     "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 437,
-    "timeWeek": 345,
+    "timeWeek": 344,
     "timeMonth": 316,
     "timeYear": 331,
     "dailyMinutesDown": {}
@@ -1707,7 +1707,7 @@
     "url": "https://www.tsb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.tsb.gc.ca.ico",
     "slug": "welcome-to-the-canadian-transportation-accident-investigation-and-safety-board-bienvenue-au-bureau-de-la-securite-des-transports-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1715,7 +1715,7 @@
     "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 284,
-    "timeWeek": 304,
+    "timeWeek": 303,
     "timeMonth": 301,
     "timeYear": 302,
     "dailyMinutesDown": {}
