@@ -4864,7 +4864,7 @@
     "url": "https://www.tsb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.tsb.gc.ca.ico",
     "slug": "welcome-to-the-canadian-transportation-accident-investigation-and-safety-board-bienvenue-au-bureau-de-la-securite-des-transports-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "86.86%",
     "uptimeDay": "92.29%",
     "uptimeWeek": "90.92%",
@@ -4872,7 +4872,7 @@
     "uptimeYear": "86.86%",
     "time": 302,
     "timeDay": 284,
-    "timeWeek": 304,
+    "timeWeek": 303,
     "timeMonth": 301,
     "timeYear": 302,
     "dailyMinutesDown": {
