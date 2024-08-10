@@ -402,19 +402,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pco.gc.ca.ico",
     "slug": "privy-council-office-canada-ca",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2395,
     "timeDay": 2462,
     "timeWeek": 2685,
     "timeMonth": 2438,
     "timeYear": 2395,
-    "dailyMinutesDown": {
-      "2024-08-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prime Minister of Canada / Premier ministre du Canada",
@@ -1709,17 +1707,17 @@
     "url": "https://www.tsb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.tsb.gc.ca.ico",
     "slug": "welcome-to-the-canadian-transportation-accident-investigation-and-safety-board-bienvenue-au-bureau-de-la-securite-des-transports-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 339,
-    "timeWeek": 309,
+    "time": 304,
+    "timeDay": 333,
+    "timeWeek": 308,
     "timeMonth": 304,
-    "timeYear": 305,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
