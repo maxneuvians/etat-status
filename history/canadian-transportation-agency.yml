@@ -1,7 +1,7 @@
 url: https://otc-cta.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-19T09:09:53.786Z
+status: up
+code: 200
+responseTime: 517
+lastUpdated: 2024-08-19T09:21:34.945Z
 startTime: 2024-06-04T20:30:55.516Z
 generator: Upptime <https://github.com/upptime/upptime>
