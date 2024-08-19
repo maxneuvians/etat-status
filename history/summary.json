@@ -4,10 +4,10 @@
     "url": "https://www.canada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1305,
@@ -16,6 +16,7 @@
     "timeMonth": 1239,
     "timeYear": 1305,
     "dailyMinutesDown": {
+      "2024-08-19": 1,
       "2024-07-07": 17
     }
   },
@@ -477,10 +478,10 @@
     "url": "https://science.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/science.gc.ca.ico",
     "slug": "canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1305,
@@ -489,6 +490,7 @@
     "timeMonth": 1239,
     "timeYear": 1305,
     "dailyMinutesDown": {
+      "2024-08-19": 1,
       "2024-07-07": 17
     }
   },
@@ -533,18 +535,19 @@
     "url": "https://weather.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/weather.gc.ca.ico",
     "slug": "weather-information-environment-canada",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 966,
     "timeDay": 931,
     "timeWeek": 1203,
     "timeMonth": 1065,
     "timeYear": 966,
     "dailyMinutesDown": {
+      "2024-08-19": 1,
       "2024-07-08": 16
     }
   },
@@ -1720,8 +1723,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 331,
-    "timeWeek": 273,
+    "timeDay": 335,
+    "timeWeek": 274,
     "timeMonth": 295,
     "timeYear": 296,
     "dailyMinutesDown": {}
