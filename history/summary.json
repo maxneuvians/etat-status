@@ -290,7 +290,7 @@
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 424,
-    "timeWeek": 334,
+    "timeWeek": 336,
     "timeMonth": 337,
     "timeYear": 334,
     "dailyMinutesDown": {}
@@ -381,18 +381,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/otc-cta.gc.ca.ico",
     "slug": "canadian-transportation-agency",
     "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "97.68%",
+    "uptime": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "97.69%",
     "time": 360,
     "timeDay": 333,
     "timeWeek": 459,
     "timeMonth": 405,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-08-20": 13,
       "2024-08-15": 104,
       "2024-08-14": 100,
       "2024-07-15": 819,
@@ -407,10 +406,10 @@
     "url": "https://pco.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pco.gc.ca.ico",
     "slug": "privy-council-office-canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2439,
@@ -418,7 +417,9 @@
     "timeWeek": 2740,
     "timeMonth": 2596,
     "timeYear": 2439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-20": 1
+    }
   },
   {
     "name": "Prime Minister of Canada / Premier ministre du Canada",
