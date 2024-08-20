@@ -406,19 +406,19 @@
     "url": "https://pco.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pco.gc.ca.ico",
     "slug": "privy-council-office-canada-ca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 2439,
-    "timeDay": 1598,
-    "timeWeek": 2740,
-    "timeMonth": 2596,
+    "timeDay": 2002,
+    "timeWeek": 2698,
+    "timeMonth": 2590,
     "timeYear": 2439,
     "dailyMinutesDown": {
-      "2024-08-20": 1
+      "2024-08-20": 8
     }
   },
   {
