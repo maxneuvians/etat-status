@@ -743,10 +743,10 @@
     "url": "https://www.cb-cda.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.cb-cda.gc.ca.ico",
     "slug": "splash-copyright-board-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 525,
@@ -755,6 +755,7 @@
     "timeMonth": 478,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-08-22": 1,
       "2024-08-06": 30,
       "2024-07-17": 23
     }
