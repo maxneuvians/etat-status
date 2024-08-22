@@ -1,7 +1,7 @@
 url: https://www.sshrc-crsh.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-22T19:30:59.043Z
+status: up
+code: 200
+responseTime: 161
+lastUpdated: 2024-08-22T19:37:51.812Z
 startTime: 2024-06-04T20:32:37.799Z
 generator: Upptime <https://github.com/upptime/upptime>
