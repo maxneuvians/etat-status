@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 332,
-    "timeWeek": 322,
+    "timeWeek": 317,
     "timeMonth": 341,
     "timeYear": 333,
     "dailyMinutesDown": {}
@@ -1321,7 +1321,7 @@
     "url": "https://www.justice.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.justice.gc.ca.ico",
     "slug": "department-of-justice-selection-de-la-langue-ministere-de-la-justice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
