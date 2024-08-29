@@ -291,8 +291,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 313,
-    "timeWeek": 328,
+    "timeDay": 332,
+    "timeWeek": 330,
     "timeMonth": 341,
     "timeYear": 333,
     "dailyMinutesDown": {}
@@ -1173,7 +1173,7 @@
     "url": "https://www.gg.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gg.ca.ico",
     "slug": "governor-general-of-canada-gouverneure-generale-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1181,7 +1181,7 @@
     "uptimeYear": "100.00%",
     "time": 573,
     "timeDay": 1158,
-    "timeWeek": 1392,
+    "timeWeek": 1445,
     "timeMonth": 883,
     "timeYear": 573,
     "dailyMinutesDown": {}
@@ -1730,7 +1730,7 @@
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 482,
-    "timeWeek": 304,
+    "timeWeek": 312,
     "timeMonth": 295,
     "timeYear": 296,
     "dailyMinutesDown": {}
