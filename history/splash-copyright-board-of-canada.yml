@@ -1,7 +1,7 @@
 url: https://www.cb-cda.gc.ca
-status: up
-code: 200
-responseTime: 1336
-lastUpdated: 2024-09-09T13:21:27.472Z
+status: down
+code: 500
+responseTime: 1371
+lastUpdated: 2024-09-09T13:33:17.513Z
 startTime: 2024-06-04T20:32:00.848Z
 generator: Upptime <https://github.com/upptime/upptime>
