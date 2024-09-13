@@ -1,7 +1,7 @@
 url: https://www.bdc.ca
-status: up
-code: 200
-responseTime: 900
-lastUpdated: 2024-09-12T23:01:55.046Z
+status: down
+code: 503
+responseTime: 131
+lastUpdated: 2024-09-13T02:21:52.109Z
 startTime: 2024-06-04T20:31:56.067Z
 generator: Upptime <https://github.com/upptime/upptime>
