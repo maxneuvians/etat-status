@@ -1,7 +1,7 @@
 url: https://travel.gc.ca
-status: down
-code: 503
-responseTime: 229
-lastUpdated: 2024-09-15T07:54:33.393Z
+status: up
+code: 200
+responseTime: 796
+lastUpdated: 2024-09-15T08:05:01.911Z
 startTime: 2024-06-04T20:31:51.548Z
 generator: Upptime <https://github.com/upptime/upptime>
