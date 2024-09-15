@@ -294,7 +294,7 @@
     "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 283,
-    "timeWeek": 288,
+    "timeWeek": 289,
     "timeMonth": 309,
     "timeYear": 326,
     "dailyMinutesDown": {}
@@ -451,19 +451,19 @@
     "url": "https://pmprb-cepmb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pmprb-cepmb.gc.ca.ico",
     "slug": "none",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2685,
-    "timeDay": 4202,
-    "timeWeek": 2915,
-    "timeMonth": 2798,
-    "timeYear": 2685,
+    "time": 2695,
+    "timeDay": 3976,
+    "timeWeek": 3035,
+    "timeMonth": 2830,
+    "timeYear": 2695,
     "dailyMinutesDown": {
-      "2024-09-15": 1
+      "2024-09-15": 7
     }
   },
   {
@@ -1607,7 +1607,7 @@
     "uptime": "82.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.45%",
+    "uptimeMonth": "44.43%",
     "uptimeYear": "82.77%",
     "time": 883,
     "timeDay": 280,
@@ -1615,7 +1615,7 @@
     "timeMonth": 656,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-09-15": 1238,
+      "2024-09-15": 1246,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
