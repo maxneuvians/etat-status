@@ -526,19 +526,19 @@
     "url": "https://travel.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/travel.gc.ca.ico",
     "slug": "travel-gc-ca-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 1045,
-    "timeWeek": 665,
-    "timeMonth": 490,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 474,
+    "timeDay": 787,
+    "timeWeek": 616,
+    "timeMonth": 483,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2024-09-15": 1
+      "2024-09-15": 8
     }
   },
   {
@@ -1607,7 +1607,7 @@
     "uptime": "83.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.33%",
+    "uptimeMonth": "46.31%",
     "uptimeYear": "83.23%",
     "time": 883,
     "timeDay": 280,
@@ -1615,7 +1615,7 @@
     "timeMonth": 656,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-09-15": 414,
+      "2024-09-15": 422,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -1765,7 +1765,7 @@
     "uptimeYear": "100.00%",
     "time": 335,
     "timeDay": 205,
-    "timeWeek": 277,
+    "timeWeek": 276,
     "timeMonth": 398,
     "timeYear": 335,
     "dailyMinutesDown": {}
