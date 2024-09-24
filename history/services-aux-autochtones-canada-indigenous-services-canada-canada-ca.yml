@@ -1,7 +1,7 @@
 url: https://www.sac-isc.gc.ca
-status: up
-code: 200
-responseTime: 511
-lastUpdated: 2024-09-24T12:08:28.550Z
+status: down
+code: 503
+responseTime: 337
+lastUpdated: 2024-09-24T12:22:58.260Z
 startTime: 2024-06-04T20:32:35.716Z
 generator: Upptime <https://github.com/upptime/upptime>
