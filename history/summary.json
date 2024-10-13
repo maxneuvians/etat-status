@@ -297,7 +297,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 304,
+    "timeDay": 309,
     "timeWeek": 315,
     "timeMonth": 324,
     "timeYear": 326,
@@ -522,7 +522,7 @@
     "uptimeYear": "100.00%",
     "time": 1340,
     "timeDay": 945,
-    "timeWeek": 3919,
+    "timeWeek": 1196,
     "timeMonth": 2123,
     "timeYear": 1340,
     "dailyMinutesDown": {}
@@ -1381,10 +1381,10 @@
     "url": "https://www.nfb.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nfb.ca.ico",
     "slug": "national-film-board-of-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1419,
@@ -1392,7 +1392,9 @@
     "timeWeek": 2314,
     "timeMonth": 2669,
     "timeYear": 1419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-13": 1
+    }
   },
   {
     "name": "Natural Resources Canada / Sélection de la langue - Ressources naturelles Canada",
@@ -1636,7 +1638,7 @@
     "timeMonth": 370,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2024-10-13": 1005,
+      "2024-10-13": 1015,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
