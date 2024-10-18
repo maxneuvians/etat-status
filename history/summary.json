@@ -1383,19 +1383,19 @@
     "url": "https://www.nfb.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nfb.ca.ico",
     "slug": "national-film-board-of-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 2707,
-    "timeWeek": 2773,
-    "timeMonth": 2691,
-    "timeYear": 1480,
+    "time": 1493,
+    "timeDay": 3055,
+    "timeWeek": 2843,
+    "timeMonth": 2711,
+    "timeYear": 1493,
     "dailyMinutesDown": {
-      "2024-10-18": 1
+      "2024-10-18": 6
     }
   },
   {
@@ -1640,7 +1640,7 @@
     "timeMonth": 373,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2024-10-18": 1315,
+      "2024-10-18": 1321,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
