@@ -1500,7 +1500,7 @@
     "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.78%",
+    "uptimeMonth": "80.81%",
     "uptimeYear": "95.45%",
     "time": 1242,
     "timeDay": 230,
@@ -1547,19 +1547,19 @@
     "url": "https://www.publicsafety.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.publicsafety.gc.ca.ico",
     "slug": "public-safety-canada-securite-publique-canada",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 284,
-    "timeDay": 208,
-    "timeWeek": 191,
-    "timeMonth": 266,
+    "timeDay": 207,
+    "timeWeek": 193,
+    "timeMonth": 264,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2024-10-19": 1
+      "2024-10-19": 14
     }
   },
   {
@@ -1640,7 +1640,7 @@
     "timeMonth": 377,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-10-19": 382,
+      "2024-10-19": 396,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
