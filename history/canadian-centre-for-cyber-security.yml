@@ -1,7 +1,7 @@
 url: https://cyber.gc.ca
-status: down
-code: 502
-responseTime: 7452
-lastUpdated: 2024-10-23T07:53:15.963Z
+status: up
+code: 200
+responseTime: 20105
+lastUpdated: 2024-10-23T08:02:29.445Z
 startTime: 2024-06-04T20:30:38.411Z
 generator: Upptime <https://github.com/upptime/upptime>
