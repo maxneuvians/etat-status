@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyber.gc.ca.ico",
     "slug": "canadian-centre-for-cyber-security",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 844,
     "timeDay": 10282,
     "timeWeek": 5305,
     "timeMonth": 2144,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2024-10-23": 68
+      "2024-10-23": 79
     }
   },
   {
@@ -1018,10 +1018,10 @@
     "url": "https://www.cse-cst.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.cse-cst.gc.ca.ico",
     "slug": "communications-security-establishment-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
@@ -1029,7 +1029,9 @@
     "timeWeek": 180,
     "timeMonth": 216,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "Canada School of Public Service / École de la fonction publique du Canada",
@@ -1503,7 +1505,7 @@
     "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.82%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "95.58%",
     "time": 1220,
     "timeDay": 226,
@@ -1641,7 +1643,7 @@
     "timeMonth": 386,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-10-23": 331,
+      "2024-10-23": 342,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
