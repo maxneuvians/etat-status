@@ -97,19 +97,19 @@
     "url": "https://cyber.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cyber.gc.ca.ico",
     "slug": "canadian-centre-for-cyber-security",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 770,
-    "timeDay": 12353,
-    "timeWeek": 5138,
-    "timeMonth": 1894,
-    "timeYear": 770,
+    "time": 798,
+    "timeDay": 10831,
+    "timeWeek": 5102,
+    "timeMonth": 1980,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-10-23": 43
+      "2024-10-23": 50
     }
   },
   {
@@ -1503,7 +1503,7 @@
     "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.72%",
+    "uptimeMonth": "93.74%",
     "uptimeYear": "95.58%",
     "time": 1220,
     "timeDay": 226,
@@ -1641,7 +1641,7 @@
     "timeMonth": 386,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-10-23": 289,
+      "2024-10-23": 296,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
