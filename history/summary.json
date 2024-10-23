@@ -97,10 +97,10 @@
     "url": "https://cyber.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cyber.gc.ca.ico",
     "slug": "canadian-centre-for-cyber-security",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.94%",
     "time": 962,
@@ -109,7 +109,7 @@
     "timeMonth": 2557,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-10-23": 113
+      "2024-10-23": 115
     }
   },
   {
@@ -293,15 +293,15 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 283,
-    "timeWeek": 300,
+    "timeDay": 292,
+    "timeWeek": 301,
     "timeMonth": 321,
     "timeYear": 324,
     "dailyMinutesDown": {}
@@ -1018,10 +1018,10 @@
     "url": "https://www.cse-cst.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.cse-cst.gc.ca.ico",
     "slug": "communications-security-establishment-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 247,
@@ -1030,7 +1030,7 @@
     "timeMonth": 219,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-10-23": 56
+      "2024-10-23": 57
     }
   },
   {
@@ -1505,7 +1505,7 @@
     "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.97%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "95.58%",
     "time": 1220,
     "timeDay": 226,
@@ -1643,7 +1643,7 @@
     "timeMonth": 386,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-10-23": 398,
+      "2024-10-23": 410,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1827,15 +1827,15 @@
     "url": "https://www.tsb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.tsb.gc.ca.ico",
     "slug": "welcome-to-the-canadian-transportation-accident-investigation-and-safety-board-bienvenue-au-bureau-de-la-securite-des-transports-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 263,
-    "timeWeek": 267,
+    "timeDay": 280,
+    "timeWeek": 272,
     "timeMonth": 293,
     "timeYear": 322,
     "dailyMinutesDown": {}
