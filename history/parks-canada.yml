@@ -1,7 +1,7 @@
 url: https://www.pc.gc.ca
-status: down
-code: 403
-responseTime: 192
-lastUpdated: 2024-11-05T12:50:32.149Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2024-11-05T13:16:26.798Z
 startTime: 2024-06-04T20:32:32.058Z
 generator: Upptime <https://github.com/upptime/upptime>
