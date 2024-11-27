@@ -4,9 +4,9 @@
     "url": "https://www.canada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.canada.ca.ico",
     "slug": "canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 1418,
     "timeYear": 1394,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-08-20": 151,
       "2024-07-07": 17
     }
@@ -414,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-11-27": 1357,
+      "2024-11-27": 1367,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -539,10 +540,10 @@
     "url": "https://science.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/science.gc.ca.ico",
     "slug": "canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1394,
@@ -551,6 +552,7 @@
     "timeMonth": 1418,
     "timeYear": 1394,
     "dailyMinutesDown": {
+      "2024-11-27": 1,
       "2024-08-20": 151,
       "2024-07-07": 17
     }
@@ -1705,7 +1707,7 @@
     "uptime": "64.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "90.49%",
+    "uptimeMonth": "90.51%",
     "uptimeYear": "64.38%",
     "time": 696,
     "timeDay": 301,
