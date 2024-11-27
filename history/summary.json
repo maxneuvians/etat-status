@@ -6,9 +6,9 @@
     "slug": "canada-ca",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1394,
     "timeDay": 1695,
@@ -16,7 +16,6 @@
     "timeMonth": 1418,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2024-11-27": 11,
       "2024-08-20": 151,
       "2024-07-07": 17
     }
@@ -301,15 +300,15 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 327,
-    "timeWeek": 320,
+    "timeDay": 332,
+    "timeWeek": 321,
     "timeMonth": 314,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -415,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-11-27": 496,
+      "2024-11-27": 512,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -542,9 +541,9 @@
     "slug": "canada-ca",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1394,
     "timeDay": 1695,
@@ -552,7 +551,6 @@
     "timeMonth": 1418,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2024-11-27": 11,
       "2024-08-20": 151,
       "2024-07-07": 17
     }
@@ -1707,7 +1705,7 @@
     "uptime": "64.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "88.53%",
+    "uptimeMonth": "88.56%",
     "uptimeYear": "64.26%",
     "time": 696,
     "timeDay": 301,
