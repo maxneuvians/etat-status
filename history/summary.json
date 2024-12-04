@@ -414,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-12-04": 1262,
+      "2024-12-04": 1274,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
@@ -1160,10 +1160,10 @@
     "url": "https://www.edc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.edc.ca.ico",
     "slug": "export-development-canada-edc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -1171,7 +1171,9 @@
     "timeWeek": 272,
     "timeMonth": 398,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "Farm Credit Canada | FCC",
@@ -1903,9 +1905,9 @@
     "slug": "veterans-review-and-appeal-board",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1168,
     "timeDay": 2737,
@@ -1913,7 +1915,6 @@
     "timeMonth": 1713,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-12-04": 8,
       "2024-10-01": 27
     }
   },
