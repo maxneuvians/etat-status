@@ -406,8 +406,8 @@
     "status": "up",
     "uptime": "73.47%",
     "uptimeDay": "97.31%",
-    "uptimeWeek": "23.02%",
-    "uptimeMonth": "6.68%",
+    "uptimeWeek": "23.74%",
+    "uptimeMonth": "6.84%",
     "uptimeYear": "73.47%",
     "time": 333,
     "timeDay": 168,
@@ -482,18 +482,20 @@
     "url": "https://pco.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pco.gc.ca.ico",
     "slug": "privy-council-office-canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2414,
-    "timeDay": 2902,
+    "timeDay": 3304,
     "timeWeek": 2421,
     "timeMonth": 2269,
     "timeYear": 2414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 2
+    }
   },
   {
     "name": "Prime Minister of Canada / Premier ministre du Canada",
