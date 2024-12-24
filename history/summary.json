@@ -408,7 +408,7 @@
     "uptime": "75.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.75%",
+    "uptimeMonth": "46.81%",
     "uptimeYear": "75.06%",
     "time": 327,
     "timeDay": 192,
@@ -519,10 +519,10 @@
     "url": "https://pmprb-cepmb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pmprb-cepmb.gc.ca.ico",
     "slug": "none",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2870,
@@ -530,7 +530,9 @@
     "timeWeek": 3200,
     "timeMonth": 3203,
     "timeYear": 2870,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-24": 1
+    }
   },
   {
     "name": "Publications du gouvernement du Canada | Government of Canada Publications",
@@ -1559,11 +1561,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oci-bec.gc.ca.ico",
     "slug": "landing-language-selector-oci-bec",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.25%",
     "time": 483,
     "timeDay": 368,
     "timeWeek": 348,
