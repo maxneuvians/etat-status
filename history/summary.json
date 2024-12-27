@@ -408,7 +408,7 @@
     "uptime": "75.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.37%",
+    "uptimeMonth": "56.39%",
     "uptimeYear": "75.42%",
     "time": 328,
     "timeDay": 464,
@@ -1486,19 +1486,19 @@
     "url": "https://www.nfb.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nfb.ca.ico",
     "slug": "national-film-board-of-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1860,
-    "timeDay": 3660,
-    "timeWeek": 2995,
-    "timeMonth": 2887,
-    "timeYear": 1860,
+    "time": 1862,
+    "timeDay": 2974,
+    "timeWeek": 2894,
+    "timeMonth": 2867,
+    "timeYear": 1862,
     "dailyMinutesDown": {
-      "2024-12-27": 2
+      "2024-12-27": 7
     }
   },
   {
