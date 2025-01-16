@@ -1,7 +1,7 @@
 url: https://www.idrc.ca
-status: up
-code: 200
-responseTime: 542
-lastUpdated: 2025-01-15T23:02:10.695Z
+status: down
+code: 503
+responseTime: 437
+lastUpdated: 2025-01-16T05:34:04.084Z
 startTime: 2024-06-04T20:32:24.003Z
 generator: Upptime <https://github.com/upptime/upptime>
