@@ -307,15 +307,15 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 303,
-    "timeWeek": 359,
+    "timeDay": 302,
+    "timeWeek": 358,
     "timeMonth": 329,
     "timeYear": 327,
     "dailyMinutesDown": {}
@@ -689,7 +689,7 @@
     "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 332,
-    "timeWeek": 442,
+    "timeWeek": 420,
     "timeMonth": 412,
     "timeYear": 586,
     "dailyMinutesDown": {}
@@ -792,7 +792,7 @@
     "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 338,
-    "timeWeek": 391,
+    "timeWeek": 381,
     "timeMonth": 386,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -810,7 +810,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 212,
-    "timeWeek": 290,
+    "timeWeek": 278,
     "timeMonth": 376,
     "timeYear": 360,
     "dailyMinutesDown": {}
@@ -1092,7 +1092,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 274,
-    "timeWeek": 341,
+    "timeWeek": 328,
     "timeMonth": 323,
     "timeYear": 340,
     "dailyMinutesDown": {}
@@ -1242,7 +1242,7 @@
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 366,
-    "timeWeek": 527,
+    "timeWeek": 502,
     "timeMonth": 487,
     "timeYear": 651,
     "dailyMinutesDown": {}
@@ -1373,7 +1373,7 @@
     "uptimeYear": "100.00%",
     "time": 259,
     "timeDay": 184,
-    "timeWeek": 257,
+    "timeWeek": 244,
     "timeMonth": 242,
     "timeYear": 259,
     "dailyMinutesDown": {}
@@ -1476,7 +1476,7 @@
     "uptimeYear": "100.00%",
     "time": 390,
     "timeDay": 187,
-    "timeWeek": 249,
+    "timeWeek": 237,
     "timeMonth": 274,
     "timeYear": 390,
     "dailyMinutesDown": {}
@@ -1660,7 +1660,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 219,
-    "timeWeek": 276,
+    "timeWeek": 260,
     "timeMonth": 275,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -1678,7 +1678,7 @@
     "uptimeYear": "99.99%",
     "time": 268,
     "timeDay": 196,
-    "timeWeek": 258,
+    "timeWeek": 241,
     "timeMonth": 248,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -1698,7 +1698,7 @@
     "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 337,
-    "timeWeek": 388,
+    "timeWeek": 374,
     "timeMonth": 382,
     "timeYear": 466,
     "dailyMinutesDown": {}
@@ -1748,7 +1748,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 340,
-    "timeWeek": 380,
+    "timeWeek": 368,
     "timeMonth": 400,
     "timeYear": 534,
     "dailyMinutesDown": {}
@@ -1766,7 +1766,7 @@
     "uptimeYear": "72.43%",
     "time": 632,
     "timeDay": 390,
-    "timeWeek": 366,
+    "timeWeek": 351,
     "timeMonth": 352,
     "timeYear": 632,
     "dailyMinutesDown": {
