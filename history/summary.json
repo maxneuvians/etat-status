@@ -314,7 +314,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 296,
+    "timeDay": 294,
     "timeWeek": 317,
     "timeMonth": 326,
     "timeYear": 326,
@@ -1349,11 +1349,11 @@
     "url": "https://www.historymuseum.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.historymuseum.ca.ico",
     "slug": "home-canadian-museum-of-history",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 2023,
     "timeDay": 4484,
@@ -1361,6 +1361,7 @@
     "timeMonth": 3568,
     "timeYear": 2023,
     "dailyMinutesDown": {
+      "2025-01-20": 3,
       "2024-12-01": 26
     }
   },
