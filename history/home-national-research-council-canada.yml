@@ -1,7 +1,7 @@
-url: https://nrc.canada.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-22T08:26:30.998Z
+url: https://nrc-cnrc.gc.ca
+status: up
+code: 200
+responseTime: 746
+lastUpdated: 2025-01-22T08:26:33.580Z
 startTime: 2024-06-04T20:30:53.072Z
 generator: Upptime <https://github.com/upptime/upptime>
