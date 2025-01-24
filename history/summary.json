@@ -308,17 +308,17 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 308,
-    "timeWeek": 309,
+    "time": 325,
+    "timeDay": 307,
+    "timeWeek": 308,
     "timeMonth": 326,
-    "timeYear": 326,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -1204,9 +1204,9 @@
     "slug": "export-development-canada-edc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 561,
     "timeDay": 261,
@@ -1214,7 +1214,6 @@
     "timeMonth": 1015,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-01-24": 8,
       "2025-01-11": 25,
       "2025-01-09": 16
     }
@@ -1355,9 +1354,9 @@
     "slug": "home-canadian-museum-of-history",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2070,
     "timeDay": 2051,
@@ -1365,7 +1364,6 @@
     "timeMonth": 3460,
     "timeYear": 2070,
     "dailyMinutesDown": {
-      "2025-01-24": 8,
       "2024-12-01": 26
     }
   },
@@ -1518,18 +1516,16 @@
     "slug": "national-film-board-of-canada",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1966,
     "timeDay": 1703,
     "timeWeek": 2081,
     "timeMonth": 2612,
     "timeYear": 1966,
-    "dailyMinutesDown": {
-      "2025-01-24": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Natural Resources Canada / Sélection de la langue - Ressources naturelles Canada",
