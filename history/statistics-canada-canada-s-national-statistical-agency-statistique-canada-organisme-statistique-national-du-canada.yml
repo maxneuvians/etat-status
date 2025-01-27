@@ -1,7 +1,7 @@
 url: https://www.statcan.gc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-27T17:11:53.651Z
+status: up
+code: 200
+responseTime: 12318
+lastUpdated: 2025-01-27T17:33:41.994Z
 startTime: 2024-06-04T20:32:38.299Z
 generator: Upptime <https://github.com/upptime/upptime>
