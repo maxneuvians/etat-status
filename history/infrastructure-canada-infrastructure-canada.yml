@@ -1,7 +1,7 @@
 url: https://www.infrastructure.gc.ca
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2025-02-03T23:02:10.499Z
+status: down
+code: 503
+responseTime: 162
+lastUpdated: 2025-02-04T11:54:11.755Z
 startTime: 2024-06-04T20:32:24.847Z
 generator: Upptime <https://github.com/upptime/upptime>
