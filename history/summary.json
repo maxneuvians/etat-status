@@ -531,10 +531,10 @@
     "url": "https://pmprb-cepmb.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/pmprb-cepmb.gc.ca.ico",
     "slug": "none",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2894,
@@ -542,7 +542,9 @@
     "timeWeek": 3319,
     "timeMonth": 3145,
     "timeYear": 2894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 2
+    }
   },
   {
     "name": "Publications du gouvernement du Canada | Government of Canada Publications",
