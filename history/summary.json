@@ -121,9 +121,9 @@
     "slug": "home-canadian-armed-forces",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "65.38%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "64.80%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.37%",
     "time": 1035,
     "timeDay": 355,
@@ -131,7 +131,7 @@
     "timeMonth": 3705,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2025-02-23": 444,
+      "2025-02-23": 453,
       "2025-02-22": 54,
       "2025-02-20": 16,
       "2025-02-19": 36,
@@ -317,14 +317,14 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 302,
+    "timeDay": 300,
     "timeWeek": 300,
     "timeMonth": 314,
     "timeYear": 323,
@@ -720,9 +720,9 @@
     "slug": "agence-spatiale-canadienne-canadian-space-agency",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "71.53%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "70.96%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.89%",
     "time": 219,
     "timeDay": 174,
@@ -730,7 +730,7 @@
     "timeMonth": 205,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-02-23": 410
+      "2025-02-23": 418
     }
   },
   {
@@ -1223,9 +1223,9 @@
     "slug": "export-development-canada-edc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 547,
     "timeDay": 240,
@@ -1233,7 +1233,6 @@
     "timeMonth": 440,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-02-23": 11,
       "2025-01-11": 25,
       "2025-01-09": 16
     }
@@ -1374,9 +1373,9 @@
     "slug": "home-canadian-museum-of-history",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 2295,
     "timeDay": 1793,
@@ -1384,7 +1383,6 @@
     "timeMonth": 3415,
     "timeYear": 2295,
     "dailyMinutesDown": {
-      "2025-02-23": 11,
       "2025-02-17": 38,
       "2025-01-31": 30,
       "2025-01-30": 27,
@@ -1543,18 +1541,16 @@
     "slug": "national-film-board-of-canada",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2147,
     "timeDay": 1919,
     "timeWeek": 4081,
     "timeMonth": 3020,
     "timeYear": 2147,
-    "dailyMinutesDown": {
-      "2025-02-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Natural Resources Canada / Sélection de la langue - Ressources naturelles Canada",
@@ -1802,7 +1798,7 @@
     "uptime": "70.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.34%",
+    "uptimeMonth": "50.32%",
     "uptimeYear": "70.43%",
     "time": 611,
     "timeDay": 0,
@@ -1810,7 +1806,7 @@
     "timeMonth": 344,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-02-23": 446,
+      "2025-02-23": 454,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -1949,7 +1945,7 @@
     "uptimeYear": "100.00%",
     "time": 445,
     "timeDay": 246,
-    "timeWeek": 396,
+    "timeWeek": 400,
     "timeMonth": 506,
     "timeYear": 445,
     "dailyMinutesDown": {}
