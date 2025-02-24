@@ -1,54 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Status</title>
-
-    <link rel="icon"
-        href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3Ctext%20x='0'%20y='14'%3E🍁%3C/text%3E%3C/svg%3E"
-        type="image/svg+xml" />
-
-    <!-- Icons Font Awesome (to access icons, import Font Awesome) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous">
-
-    <!-- GC Design System -->
-    <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.1/dist/gcds/gcds.css">
-    <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.1/dist/gcds/gcds.esm.js"></script>
-    <script nomodule src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.1/dist/gcds/gcds.js"></script>
-    <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-utility@1.2.0/dist/gcds-utility.min.css">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <gcds-header
-        lang-href="/etat-status/fr"
-        skip-to-href="#mc"
-    >
-    </gcds-header>
-    <div class="content-wrapper">
-        <main id="mc" class="container-xl mx-auto xl:px-0 sm:px-500 px-300 general-layout">
-            <h1 class="mb-200 mt-400">Status</h1>
-            Status page for the Government of Canada
-            <div id="overall-status" class="mt-400">
-            </div>
-            <h2 class="mb-200 mt-400">Live Status</h2>
-            <div class="mb-400 status-body">
-                <ul id="list"></ul>
-            </div>
-            <h2 class="mb-200 mt-400">Past Downtimes</h2> 
-            <div class="status-body">
-                <ul id="incident-list"></ul>
-            </div>
-        </main>
-    </div>
-    <gcds-footer
-        contextual-heading="Contextual navigation"
-        contextual-links=''
-    >
-    </gcds-footer>
-    <script src="scripts.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        loadData("en");
-    </script>
-</body>
-</html>
+<!DOCTYPE html> <html lang=en> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1" name=viewport> <meta content=#333333 name=theme-color> <base href=/etat-status/ > <link href=manifest.json rel=manifest crossorigin=use-credentials> <script>__SAPPER__={baseUrl:"/etat-status",preloaded:[void 0,{}]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/etat-status/service-worker.js');(function(){try{eval("async function x(){}");var main="/etat-status/client/client.d21ae483.js"}catch(e){main="/etat-status/client/legacy/client.3b9b460b.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/etat-status/client/shimport@2.0.5.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> <link href=client/client-31a52aa5.css rel=stylesheet><link href=client/createOctokit-a85f76c7.css rel=stylesheet><link href=client/index-b0b6455a.css rel=stylesheet> <title>Upptime</title> <script>// If `prefers-color-scheme` is not supported, fall back to light mode.
+      // In this case, light.css will be downloaded with `highest` priority.
+      if (typeof window !== "undefined" && typeof document !== "undefined" && "matchMedia" in window && window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+        document.documentElement.style.display = 'none';
+        document.head.insertAdjacentHTML(
+          'beforeend',
+          '<link rel="stylesheet" href={`${config.path}/themes/light.css`} onload="document.documentElement.style.display = \'\'">',
+        );
+      } </script> <link href=https://maxneuvians.github.io/etat-status/themes/light.css rel=stylesheet media=(prefers-color-scheme:light)> <link href=https://maxneuvians.github.io/etat-status/themes/dark.css rel=stylesheet media=(prefers-color-scheme:dark)><link href=https://maxneuvians.github.io/etat-status/global.css rel=stylesheet><link href=https://raw.githubusercontent.com/upptime/upptime/master/assets/upptime-icon.svg rel=icon type=image/svg><link href=/logo-192.png rel=icon type=image/png> <link href=/etat-status/client/client.d21ae483.js rel=modulepreload as=script crossorigin=use-credentials><link href=/etat-status/client/client-31a52aa5.css rel=preload as=style><link href=/etat-status/client/index.6eb00d30.js rel=modulepreload as=script crossorigin=use-credentials><link href=/etat-status/client/createOctokit.356f071d.js rel=modulepreload as=script crossorigin=use-credentials><link href=/etat-status/client/inject_styles.803b7e80.js rel=modulepreload as=script crossorigin=use-credentials><link href=/etat-status/client/createOctokit-a85f76c7.css rel=preload as=style><link href=/etat-status/client/index-b0b6455a.css rel=preload as=style></head> <body> <div id=sapper> <nav class=svelte-a08hsz><div class="svelte-a08hsz container"><div><a href=https://maxneuvians.github.io/etat-status class="svelte-a08hsz logo"><img alt="" class=svelte-a08hsz src=https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg> <div>Upptime</div></a></div> <ul class=svelte-a08hsz><li><a href=/ class=svelte-a08hsz target=_self aria-current=page>undefined</a> <li><a href=https://github.com/maxneuvians/etat-status class=svelte-a08hsz target=_self>undefined</a> </li> </ul></div> </nav> <main class=container> <header class=svelte-ngkazm> <p class="svelte-ngkazm lead">This is a sample status page which uses <strong>real-time</strong> data from our <a href=https://github.com/upptime/upptime>GitHub repository</a>. No server required — just GitHub Actions, Issues, and Pages. <a href=https://github.com/upptime/upptime><strong>Get your own for free</strong></a></header> <section class=svelte-8lnl4f><div class="svelte-68jxue loading"><svg class=svelte-68jxue height=38 stroke=#aaa width=38 xmlns=http://www.w3.org/2000/svg><g fill=none fill-rule=evenodd><g stroke-width=2 transform="translate(1 1)"><circle cx=18 cy=18 r=18 stroke-opacity=.5></circle><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName=transform dur=1s from="0 18 18" repeatCount=indefinite to="360 18 18" type=rotate></animateTransform></path></g></g></svg></div> </section> <section class=svelte-8lnl4f><div class="svelte-68jxue loading"><svg class=svelte-68jxue height=38 stroke=#aaa width=38 xmlns=http://www.w3.org/2000/svg><g fill=none fill-rule=evenodd><g stroke-width=2 transform="translate(1 1)"><circle cx=18 cy=18 r=18 stroke-opacity=.5></circle><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName=transform dur=1s from="0 18 18" repeatCount=indefinite to="360 18 18" type=rotate></animateTransform></path></g></g></svg></div> </section> <div class="svelte-fqsq6s f changed"><h2>Live Status</h2> <form class="svelte-fqsq6s f r"><div><input class=svelte-fqsq6s id=data_day name=d type=radio value=day><label class=svelte-fqsq6s for=data_day>24h</label></div> <div><input class=svelte-fqsq6s id=data_week name=d type=radio value=week checked><label class=svelte-fqsq6s for=data_week>7d</label></div> <div><input class=svelte-fqsq6s id=data_month name=d type=radio value=month><label class=svelte-fqsq6s for=data_month>30d</label></div> <div><input class=svelte-fqsq6s id=data_year name=d type=radio value=year><label class=svelte-fqsq6s for=data_year>1y</label></div> <div><input class=svelte-fqsq6s id=data_all name=d type=radio value=all><label class=svelte-fqsq6s for=data_all>all</label></div></form></div> <section class="svelte-fqsq6s live-status"><div class="svelte-68jxue loading"><svg class=svelte-68jxue height=38 stroke=#aaa width=38 xmlns=http://www.w3.org/2000/svg><g fill=none fill-rule=evenodd><g stroke-width=2 transform="translate(1 1)"><circle cx=18 cy=18 r=18 stroke-opacity=.5></circle><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName=transform dur=1s from="0 18 18" repeatCount=indefinite to="360 18 18" type=rotate></animateTransform></path></g></g></svg></div> </section> <section><div class="svelte-68jxue loading"><svg class=svelte-68jxue height=38 stroke=#aaa width=38 xmlns=http://www.w3.org/2000/svg><g fill=none fill-rule=evenodd><g stroke-width=2 transform="translate(1 1)"><circle cx=18 cy=18 r=18 stroke-opacity=.5></circle><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName=transform dur=1s from="0 18 18" repeatCount=indefinite to="360 18 18" type=rotate></animateTransform></path></g></g></svg></div> </section> <section><div class="svelte-68jxue loading"><svg class=svelte-68jxue height=38 stroke=#aaa width=38 xmlns=http://www.w3.org/2000/svg><g fill=none fill-rule=evenodd><g stroke-width=2 transform="translate(1 1)"><circle cx=18 cy=18 r=18 stroke-opacity=.5></circle><path d="M36 18c0-9.94-8.06-18-18-18"><animateTransform attributeName=transform dur=1s from="0 18 18" repeatCount=indefinite to="360 18 18" type=rotate></animateTransform></path></g></g></svg></div></section></main> <footer class=svelte-jbr799><p>This page is <a href=https://github.com/maxneuvians/etat-status>open source</a>, powered by <a href=https://upptime.js.org>Upptime</a></p> </footer></div> <script> try {
+        if (typeof window !== "undefined" && window.navigator && navigator.serviceWorker) {
+          navigator.serviceWorker.getRegistrations().then(function (registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          });
+        }
+        if (typeof window !== "undefined" && "caches" in window) {
+          caches.keys().then(function (keyList) {
+            return Promise.all(
+              keyList.map(function (key) {
+                return caches.delete(key);
+              })
+            );
+          });
+        }
+      } catch (error) {} </script> 
