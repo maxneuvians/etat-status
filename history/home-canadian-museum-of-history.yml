@@ -1,7 +1,7 @@
 url: https://www.historymuseum.ca
-status: down
-code: 403
-responseTime: 74
-lastUpdated: 2025-03-09T17:59:37.389Z
+status: up
+code: 200
+responseTime: 5649
+lastUpdated: 2025-03-09T18:10:16.313Z
 startTime: 2024-06-04T20:32:20.514Z
 generator: Upptime <https://github.com/upptime/upptime>
