@@ -1,7 +1,7 @@
 url: https://www.mint.ca
-status: down
-code: 503
-responseTime: 241
-lastUpdated: 2025-03-11T10:16:49.205Z
+status: up
+code: 200
+responseTime: 851
+lastUpdated: 2025-03-11T10:42:21.745Z
 startTime: 2024-06-04T20:32:27.109Z
 generator: Upptime <https://github.com/upptime/upptime>
