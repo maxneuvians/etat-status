@@ -311,7 +311,7 @@
     "time": 638,
     "timeDay": 241,
     "timeWeek": 208,
-    "timeMonth": 189,
+    "timeMonth": 191,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-03-13": 17,
@@ -331,16 +331,16 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 296,
+    "timeDay": 288,
     "timeWeek": 302,
-    "timeMonth": 316,
+    "timeMonth": 315,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -641,7 +641,7 @@
     "uptimeYear": "100.00%",
     "time": 1050,
     "timeDay": 707,
-    "timeWeek": 1017,
+    "timeWeek": 1022,
     "timeMonth": 914,
     "timeYear": 1050,
     "dailyMinutesDown": {}
@@ -905,7 +905,7 @@
     "time": 855,
     "timeDay": 469,
     "timeWeek": 576,
-    "timeMonth": 829,
+    "timeMonth": 854,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2025-02-26": 28,
@@ -1073,7 +1073,7 @@
     "time": 421,
     "timeDay": 372,
     "timeWeek": 312,
-    "timeMonth": 561,
+    "timeMonth": 568,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -1091,7 +1091,7 @@
     "time": 425,
     "timeDay": 253,
     "timeWeek": 339,
-    "timeMonth": 311,
+    "timeMonth": 317,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2025-01-15": 132,
@@ -1868,7 +1868,7 @@
     "uptime": "71.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.78%",
+    "uptimeMonth": "82.87%",
     "uptimeYear": "71.61%",
     "time": 587,
     "timeDay": 201,
@@ -2113,7 +2113,7 @@
     "time": 304,
     "timeDay": 258,
     "timeWeek": 309,
-    "timeMonth": 298,
+    "timeMonth": 297,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -2131,7 +2131,7 @@
     "time": 419,
     "timeDay": 387,
     "timeWeek": 317,
-    "timeMonth": 475,
+    "timeMonth": 461,
     "timeYear": 419,
     "dailyMinutesDown": {}
   }
