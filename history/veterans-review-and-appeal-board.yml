@@ -1,7 +1,7 @@
 url: https://www.vrab-tacra.gc.ca
-status: up
-code: 200
-responseTime: 543
-lastUpdated: 2025-03-25T14:02:00.612Z
+status: down
+code: 503
+responseTime: 3347
+lastUpdated: 2025-03-25T15:22:20.638Z
 startTime: 2024-06-04T20:32:40.265Z
 generator: Upptime <https://github.com/upptime/upptime>
