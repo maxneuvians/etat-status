@@ -1,7 +1,7 @@
 url: https://www.edc.ca
-status: up
-code: 200
-responseTime: 274
-lastUpdated: 2025-03-29T23:02:34.785Z
+status: down
+code: 403
+responseTime: 504
+lastUpdated: 2025-03-30T11:20:34.043Z
 startTime: 2024-06-04T20:32:13.862Z
 generator: Upptime <https://github.com/upptime/upptime>
