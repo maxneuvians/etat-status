@@ -1,7 +1,7 @@
 url: https://library-archives.canada.ca
-status: down
-code: 503
-responseTime: 363
-lastUpdated: 2025-03-30T02:47:23.341Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2025-03-30T03:12:19.833Z
 startTime: 2024-06-04T20:30:43.420Z
 generator: Upptime <https://github.com/upptime/upptime>
