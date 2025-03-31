@@ -1,7 +1,7 @@
 url: https://www.nfb.ca
-status: up
-code: 200
-responseTime: 4660
-lastUpdated: 2025-03-30T23:02:21.129Z
+status: down
+code: 403
+responseTime: 148
+lastUpdated: 2025-03-31T22:03:54.443Z
 startTime: 2024-06-04T20:32:28.183Z
 generator: Upptime <https://github.com/upptime/upptime>
