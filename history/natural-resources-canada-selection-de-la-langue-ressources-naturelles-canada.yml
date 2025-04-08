@@ -1,7 +1,7 @@
 url: https://www.nrcan.gc.ca
-status: down
-code: 403
-responseTime: 205
-lastUpdated: 2025-04-08T07:00:44.307Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2025-04-08T07:12:25.112Z
 startTime: 2024-06-04T20:32:28.973Z
 generator: Upptime <https://github.com/upptime/upptime>
