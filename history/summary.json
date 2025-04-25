@@ -659,7 +659,7 @@
     "url": "https://tbs-sct.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/tbs-sct.gc.ca.ico",
     "slug": "treasury-board-of-canada-secretariat-selection-de-la-langue-secretariat-du-conseil-du-tresor-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -667,7 +667,7 @@
     "uptimeYear": "100.00%",
     "time": 1093,
     "timeDay": 3752,
-    "timeWeek": 1623,
+    "timeWeek": 1642,
     "timeMonth": 1342,
     "timeYear": 1093,
     "dailyMinutesDown": {}
