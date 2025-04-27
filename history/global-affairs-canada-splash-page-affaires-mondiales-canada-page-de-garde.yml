@@ -1,7 +1,7 @@
 url: https://www.international.gc.ca
-status: up
-code: 200
-responseTime: 449
-lastUpdated: 2025-04-26T23:02:39.635Z
+status: down
+code: 503
+responseTime: 20365
+lastUpdated: 2025-04-27T13:57:56.881Z
 startTime: 2024-06-04T20:32:26.006Z
 generator: Upptime <https://github.com/upptime/upptime>
