@@ -670,7 +670,7 @@
     "time": 1090,
     "timeDay": 848,
     "timeWeek": 1632,
-    "timeMonth": 1308,
+    "timeMonth": 1314,
     "timeYear": 1090,
     "dailyMinutesDown": {}
   },
@@ -1303,7 +1303,7 @@
     "time": 473,
     "timeDay": 629,
     "timeWeek": 334,
-    "timeMonth": 406,
+    "timeMonth": 408,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2025-04-22": 25,
@@ -1471,7 +1471,7 @@
     "time": 3158,
     "timeDay": 2487,
     "timeWeek": 6659,
-    "timeMonth": 4648,
+    "timeMonth": 4684,
     "timeYear": 3158,
     "dailyMinutesDown": {
       "2025-04-26": 34,
@@ -1663,7 +1663,7 @@
     "time": 2112,
     "timeDay": 2172,
     "timeWeek": 1308,
-    "timeMonth": 1506,
+    "timeMonth": 1493,
     "timeYear": 2112,
     "dailyMinutesDown": {
       "2025-04-23": 63,
@@ -1700,7 +1700,7 @@
     "time": 226,
     "timeDay": 149,
     "timeWeek": 202,
-    "timeMonth": 260,
+    "timeMonth": 262,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -1935,11 +1935,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.scc-csc.ca.ico",
     "slug": "supreme-court-of-canada-cour-supreme-du-canada",
     "status": "up",
-    "uptime": "74.63%",
+    "uptime": "74.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "74.63%",
+    "uptimeYear": "74.64%",
     "time": 598,
     "timeDay": 375,
     "timeWeek": 281,
@@ -2189,7 +2189,7 @@
     "time": 307,
     "timeDay": 540,
     "timeWeek": 424,
-    "timeMonth": 352,
+    "timeMonth": 353,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
