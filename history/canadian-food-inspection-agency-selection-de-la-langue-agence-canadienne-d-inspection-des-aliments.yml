@@ -1,7 +1,7 @@
 url: https://www.inspection.gc.ca
-status: down
-code: 503
-responseTime: 12914
-lastUpdated: 2025-04-29T10:49:58.984Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2025-04-29T11:38:07.320Z
 startTime: 2024-06-04T20:32:25.402Z
 generator: Upptime <https://github.com/upptime/upptime>
