@@ -661,16 +661,16 @@
     "url": "https://tbs-sct.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/tbs-sct.gc.ca.ico",
     "slug": "treasury-board-of-canada-secretariat-selection-de-la-langue-secretariat-du-conseil-du-tresor-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1093,
-    "timeDay": 665,
-    "timeWeek": 1904,
-    "timeMonth": 1340,
+    "timeDay": 864,
+    "timeWeek": 1883,
+    "timeMonth": 1339,
     "timeYear": 1093,
     "dailyMinutesDown": {}
   },
@@ -1106,7 +1106,7 @@
     "time": 404,
     "timeDay": 374,
     "timeWeek": 315,
-    "timeMonth": 311,
+    "timeMonth": 314,
     "timeYear": 404,
     "dailyMinutesDown": {}
   },
@@ -2212,7 +2212,7 @@
     "time": 504,
     "timeDay": 377,
     "timeWeek": 332,
-    "timeMonth": 1237,
+    "timeMonth": 1264,
     "timeYear": 504,
     "dailyMinutesDown": {}
   }
