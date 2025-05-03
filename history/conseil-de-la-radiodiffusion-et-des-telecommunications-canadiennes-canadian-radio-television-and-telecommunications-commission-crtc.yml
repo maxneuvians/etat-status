@@ -1,7 +1,7 @@
 url: https://crtc.gc.ca
-status: down
-code: 500
-responseTime: 199
-lastUpdated: 2025-05-03T08:00:32.007Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2025-05-03T08:26:52.298Z
 startTime: 2024-06-04T20:30:37.869Z
 generator: Upptime <https://github.com/upptime/upptime>
