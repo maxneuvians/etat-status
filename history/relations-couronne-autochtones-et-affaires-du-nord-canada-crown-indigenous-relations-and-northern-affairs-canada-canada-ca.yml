@@ -1,7 +1,7 @@
 url: https://www.rcaanc-cirnac.gc.ca
-status: down
-code: 503
-responseTime: 210
-lastUpdated: 2025-05-08T17:42:49.035Z
+status: up
+code: 200
+responseTime: 572
+lastUpdated: 2025-05-08T17:51:18.994Z
 startTime: 2024-06-04T20:32:34.491Z
 generator: Upptime <https://github.com/upptime/upptime>
