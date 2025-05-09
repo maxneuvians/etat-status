@@ -1,7 +1,7 @@
 url: https://nac-cna.ca
-status: down
-code: 503
-responseTime: 794
-lastUpdated: 2025-05-09T17:51:17.721Z
+status: up
+code: 200
+responseTime: 3511
+lastUpdated: 2025-05-09T17:59:12.315Z
 startTime: 2024-06-04T20:30:45.010Z
 generator: Upptime <https://github.com/upptime/upptime>
