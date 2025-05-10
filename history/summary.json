@@ -196,7 +196,7 @@
     "uptime": "97.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.39%",
+    "uptimeMonth": "71.30%",
     "uptimeYear": "97.32%",
     "time": 1115,
     "timeDay": 160,
@@ -204,7 +204,7 @@
     "timeMonth": 812,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-05-10": 908,
+      "2025-05-10": 950,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -358,7 +358,7 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2241,7 +2241,7 @@
     "time": 498,
     "timeDay": 189,
     "timeWeek": 300,
-    "timeMonth": 1173,
+    "timeMonth": 319,
     "timeYear": 498,
     "dailyMinutesDown": {}
   }
