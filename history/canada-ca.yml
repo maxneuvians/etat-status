@@ -1,7 +1,7 @@
-url: https://science.gc.ca
-status: down
-code: 500
-responseTime: 188
-lastUpdated: 2025-05-23T05:44:36.183Z
+url: https://www.canada.ca
+status: up
+code: 200
+responseTime: 2199
+lastUpdated: 2025-05-23T05:52:28.216Z
 startTime: 2024-06-04T20:30:30.891Z
 generator: Upptime <https://github.com/upptime/upptime>
